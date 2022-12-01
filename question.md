@@ -12,6 +12,7 @@ let programming = {
     jokes: "http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke"
 };
 
+
 1. Write the command to add the language "Go" to the end of the languages array.
 2. Change the difficulty to the value of 7.
 3. Using the delete keyword, write the command to remove the jokes key from the programming object
