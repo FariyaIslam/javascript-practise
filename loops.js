@@ -12,9 +12,13 @@ let programming = {
     difficulty: 8,
     jokes: "http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke"
 };
-// Object destrcuting
-let {languages, difficulty} = programming;
 
-for (let k in programming) {
-  console.log(k, " ",programming[k]);
+for(let x in programming){
+    console.log(programming[x]);
 }
+
+
+
+
+
+
