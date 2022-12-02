@@ -23,4 +23,4 @@ function square(res){
     return res*res;
 }
 
-console.log(res(3*7));
+console.log(square(12));
