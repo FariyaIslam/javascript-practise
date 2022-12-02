@@ -1,4 +1,4 @@
-// https://contactmentor.com/js-function-exercises-solution/
+//https://contactmentor.com/js-function-exercises-solution
 // 1. Write a JavaScript function to print the “Hello World” message
 // 2. Write a function that returns the square of a number
 // 3. Write a function to convert Celsius to Fahrenheit
@@ -10,3 +10,17 @@
 // 9. Write a function to check if an input string is a palindrome
 // 10. Write a function to calculate simple interest based on the principle amount
 // 11. Write a function to calculate compound interest based on the principle amount
+
+
+1. /* function fun() {
+    console.log('Hello World');
+}
+
+fun(); */
+
+
+function square(res){
+    return res*res;
+}
+
+console.log(res(3*7));
