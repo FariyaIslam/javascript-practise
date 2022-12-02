@@ -19,9 +19,18 @@
 fun(); */
 
 
-function square(res){
+/*2.function square(res){
     return res*res;
 }
 
 console.log(square(12));
-console.log(square(13));
+console.log(square(13)); */
+
+
+function CelsiusTofarenheit (res){
+    return(res*9/5)+32;
+}
+console.log(CelsiusTofarenheit(0));
+console.log(CelsiusTofarenheit(20));
+
+
