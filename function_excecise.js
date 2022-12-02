@@ -24,3 +24,4 @@ function square(res){
 }
 
 console.log(square(12));
+console.log(square(13));
