@@ -27,10 +27,33 @@ console.log(square(12));
 console.log(square(13)); */
 
 
-function CelsiusTofarenheit (res){
+3./* function CelsiusTofarenheit (res){
     return(res*9/5)+32;
 }
 console.log(CelsiusTofarenheit(0));
-console.log(CelsiusTofarenheit(20));
+console.log(CelsiusTofarenheit(20)); */
+
+
+4 /* function Rectangle(a,b){
+    return (a*b);
+}
+console.log(Rectangle(10,20));  */
+
+
+5. /* parinah */
+
+
+function palindrome(Res){
+    for(var i =0; i<Res.length; i++){
+        if(Res.charAt(i)!=Res.charAt(Res.length-i-1)){
+            return false;
+        }
+    }
+    return true;           
+}
+
+console.log(palindrome('banana'));
+
+
 
 
