@@ -12,6 +12,8 @@
 // 11. Write a function to calculate compound interest based on the principle amount
 
 
+
+
 1. /* function fun() {
     console.log('Hello World');
 }
@@ -42,7 +44,7 @@ console.log(Rectangle(10,20));  */
 
 5. /* parinah */
 
-
+/*
 function palindrome(Res){
     for(var i =0; i<Res.length; i++){
         if(Res.charAt(i)!=Res.charAt(Res.length-i-1)){
@@ -53,6 +55,16 @@ function palindrome(Res){
 }
 
 console.log(palindrome('banana'));
+console.log(palindrome(apple));
+
+*/
+
+
+function fun(){
+    console.log("hey love");
+}
+
+fun();
 
 
 
